@@ -1,0 +1,18 @@
+[
+    {
+        "Train No": "12653",
+        "From": "Hyderabad",
+        "To": "Chennai",
+        "Time": "4:30",
+        "Seats": 20,
+        "Fare": 500
+    },
+    {
+        "Train No": "13667",
+        "From": "Delhi",
+        "To": "Punjab",
+        "Time": "10:00",
+        "Seats": 20,
+        "Fare": 650
+    }
+]

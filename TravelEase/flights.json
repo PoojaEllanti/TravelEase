@@ -1,0 +1,10 @@
+[
+    {
+        "Flight No": "3025A",
+        "From": "Mumbai",
+        "To": "Delhi",
+        "Time": "13:00",
+        "Seats": 20,
+        "Fare": 2000
+    }
+]

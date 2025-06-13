@@ -1,0 +1,29 @@
+[
+    {
+        "user": "user1",
+        "type": "Train",
+        "From": "Chennai",
+        "To": "Bangalore",
+        "Time": "07:00 AM",
+        "Fare": 500,
+        "Seats": 2
+    },
+    {
+        "user": "user1",
+        "type": "Flight",
+        "From": "Mumbai",
+        "To": "Hyderabad",
+        "Time": "09:30 AM",
+        "Fare": 2500,
+        "Seats": 1
+    },
+    {
+        "user": "Pooja Ellanti",
+        "type": "Train",
+        "From": "Hyderabad",
+        "To": "Chennai",
+        "Time": "4:30",
+        "Fare": 500,
+        "Seats": 3
+    }
+]
